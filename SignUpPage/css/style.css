@@ -1,0 +1,50 @@
+body{
+	background-color: powderblue;
+}
+h1{
+	margin-left: 20px;
+	color: purple;
+}
+#city{
+	font-weight: bold;
+}
+#latitude{
+	font-family: arial;
+	font-weight: bold;
+}
+#longitude{
+	font-family: arial;
+	font-weight: bold;
+}
+#usrnameError{
+	color: red;
+	font-weight: bold;
+}
+#zipError{
+  font-weight: bold;
+  font-style: italic;
+}
+#available{
+  color: green;
+  font-size: 20;
+}
+#notavailable{
+  color: red;
+  font-size: 20;
+}
+#suggestedPassWord{
+	margin-left: 10px;
+	font-weight: bold;
+	color: mustardyellow;
+}
+#retypePassword{
+	font-weight: bold;
+}
+#passwordError{
+  color: red;
+  font-weight: bold;
+}
+#password2{
+  color: red;
+  font-weight: bold;
+}
