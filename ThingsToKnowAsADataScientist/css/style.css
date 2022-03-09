@@ -1,0 +1,121 @@
+#Title{
+	text-align: center;
+	color: #5f6c7b;
+	font-family: sans-serif;
+}
+.navigationBar{
+	background-color: #3da9fc;
+	display: flex;
+	padding:10px;
+	justify-content: space-evenly;
+}
+#home{
+	padding: 15px;
+	font-size: 20px;
+	color: #094067;
+}
+#DS{
+	padding: 15px;
+	font-size: 20px;
+	color: #094067;
+}
+#ML{
+	padding: 15px;
+	font-size: 20px;
+	color: #094067;
+}
+#DB{
+	padding:15px;
+	font-size: 20px;
+	color: #094067;
+}
+.Info{
+	display: flex;
+	align-content: center;
+	background-color: #e7e3e3;
+}
+#homeImg{
+	width: 900px;
+	height: 500px;
+}
+.overview{
+	background-color: #d3cece;
+	padding: 20px;
+	margin-top: 50px;
+	margin-left: 20px;
+}
+footer{
+	background-color: #3da9fc;
+}
+#finePrint{
+	padding-left: 30px;
+	padding-top: 2px;
+	padding-bottom: 1px;
+}
+.para{
+	text-indent: 20px;
+}
+#DSInfo{
+	display: flex;
+	padding-left: 40px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	background-color: #e7e3e3;
+	width: 100%;
+}
+ul  {
+  list-style: square;
+}
+.DSTitle{
+	color: rgb(197, 95, 95);
+}
+#DSImage{
+	width: 900px;
+	height: 500px;
+}
+.DSpar{
+	margin-left: 50px;
+}
+.circle{
+	margin-top: 130px;
+	width:100px;
+	height: 100px;
+    opacity: 0.5;
+}
+.MLTitle{
+	color: rgb(197, 95, 95);
+}
+.MLCont{
+	margin-left: 40px;
+}
+#MLImages{
+	display: block;
+	position: relative;
+}
+.MImages{
+	 width: 300px;
+	 height: 150px;
+	 display: block;
+	 margin-top: 5px;
+}
+.MLRein{
+	width: 450px;
+	height: 250px;
+	display: block;
+	margin-top: 5px;
+}
+.MLCircle{
+	margin-left: 40px;
+	margin-top: 130px;
+	width: 100px; 
+	height: 100px;
+    opacity: 0.5;
+}
+#SQLImg{
+	margin-left: 30px;
+	width: 500px;
+	height: 300px;
+}
+#DBInfo{
+	margin-left: 15px;
+}
