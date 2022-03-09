@@ -1,0 +1,161 @@
+.body{
+	background-color: #e4830c;
+}
+.title{
+	text-align: center;
+	/* margin-top: 15px; */
+	margin: 20px;
+	margin-left: 50px;
+	margin-right: 50px;
+	text-shadow: 2px 2px #ae0a0a;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	text-decoration: underline overline;
+	background-color: #0e7c57;
+}
+h3{
+	font-family: arial;
+}
+.rulesContainer{
+	text-align: center;
+	font-family: Helvetica;
+}
+#rules{
+/* 	text-align: left;
+ */	font-family: Helvetica;
+	font-size: 16px;
+	display: center;
+  	list-style-position: inside;
+	width:  50%;
+	text-align: center;
+	display: inline-block; 
+	text-align: left; 
+}
+#cards{
+	display: flex;
+	justify-content: space-between;
+}
+#player1{
+	text-align: center;
+}
+#player2{
+	text-align: center;
+}
+#player1card1{
+	width: 150px;
+	height: 150px;
+	margin: 20px;
+}
+#player1card2{
+	width: 150px;
+	height: 150px;
+	margin: 20px;
+}
+/* #player1card3{
+	width: 150px;
+	height: 150px;
+	margin: 20px;
+}
+#player1card4{
+	width: 150px;
+	height: 150px;
+	margin: 20px;
+}
+#player1card5{
+	width: 150px;
+	height: 150px;
+	margin: 20px;
+}
+#player1card6{
+	width: 150px;
+	height: 150px;
+	margin: 20px;
+}
+#player1card7{
+	width: 150px;
+	height: 150px;
+	margin: 20px;
+}
+#player1card8{
+	width: 150px;
+	height: 150px;
+	margin: 20px;
+}
+#player1card9{
+	width: 150px;
+	height: 150px;
+	margin: 20px;
+}
+#player1card10{
+	width: 150px;
+	height: 150px;
+	margin: 20px;
+} */
+#player2card1{
+	width: 150px;
+	height: 150px;
+	margin: 20px;
+}
+#player2card2{
+	width: 150px;
+	height: 150px;
+	margin: 20px;
+}
+.handsTitle{
+	margin-left: 30px;
+}
+#inputVars{
+	display: center;
+	text-align: center;
+}
+#ageNotValid{
+	display: center;
+	text-align: center;
+
+}
+#winOrLoose{
+	display: center;
+	text-align: center;
+}
+#buttons{
+	display: block;
+}
+#player1Hit{
+	display: center;
+	margin: auto;
+	margin-top: 10px;
+	display: block;
+	background-color: #eebb7c;
+  	color: black;
+  	border: 2px solid #4CAF50; 
+	font-size: 24px;
+	border-radius: 12px;
+}
+#showDealersHand{
+	display: center;
+	margin: auto;
+	margin-top: 10px;
+	display: block;
+	background-color: #eebb7c;
+  	color: black;
+  	border: 2px solid #4c9aae; 
+	font-size: 24px;
+	border-radius: 12px;
+}
+#restart{
+	display: center;
+	margin: auto;
+	margin-top: 10px;
+	display: block;
+	background-color: #eebb7c;
+  	color: black;
+  	border: 2px solid #ff0000; 
+	font-size: 24px;
+	border-radius: 12px;
+}
+#name{
+	margin: 10px;
+}
+#age{
+	margin: 10px;
+}
