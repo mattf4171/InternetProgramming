@@ -1,0 +1,19 @@
+#topHeader{
+	background-color: blue;
+	margin: 10px;
+	background: rgba(0, 192, 200, 0.6);
+}
+#imagesContainer{
+	
+	display: flex;
+	background-color: white;
+	/* margin: 0 auto --if we were not using flex this would work*/;
+	justify-content: center;
+	margin: auto;
+	width: 80%;
+}
+
+#error{
+  color: red;
+  font-weight: bold;
+}
