@@ -1,3 +1,4 @@
 # Quote Finder
-<hr>
-### Authors: Matthew Fernandez, Fadi Saleib
+
+## Authors:
+Matthew Fernandez, Fadi Saleib
